@@ -1,5 +1,5 @@
 # Hey, I'm Indeep 👋
-I'm a network engineer who got pulled into the cloud, and I'm making the move full time. I'm **AWS Certified Solutions Architect – Associate** and **CCNA** certified, based in Bengaluru, and I'm looking for a **Cloud Engineer or Cloud Support role** (remote is great).
+I'm a network engineer who got pulled into the cloud, and I'm making the move full time. I'm **AWS Certified Solutions Architect – Associate** and **CCNA** certified, based in Bengaluru, and I'm looking for a **Cloud Engineer or Cloud Support role**.
 I learned networking before AWS: TCP/IP, VLANs, routing, firewalls. So when something breaks in the cloud, I know to check the network first, and that saves a lot of time.
 
 ## What I do today
